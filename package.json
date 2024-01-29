@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.1",
+    "dotenv": "^10.0.0"
+  },
+  "name": "immutable-token",
+  "version": "1.0.0",
+  "description": "The project that contains all the contracts for the immutable token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "immutable",
+    "knowldege"
+  ],
+  "author": "Icewave.io",
+  "license": "UNLICENSED"
+}
